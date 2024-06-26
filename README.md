@@ -5,6 +5,7 @@ Simple Guess the Number game re-written in Svelte.
 After you cloned, you can run it with
 ```bash
 npm run dev
+```
 
 # General Svelte Information
 
